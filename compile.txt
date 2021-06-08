@@ -1,0 +1,10 @@
+lex file.l
+gcc lex.yy.c -ly -ll
+./a.out
+
+ 
+lex example.l
+yacc example.y
+gcc -o example y.tab.c
+./example
+    

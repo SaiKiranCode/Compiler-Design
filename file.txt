@@ -1,0 +1,5 @@
+int a,b;
+float h,l;
+a=9;
+b=3;
+printf("%d %d",a,b);

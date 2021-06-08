@@ -1,0 +1,3 @@
+int a=4;
+float b=2.0;
+printf("%f %d"b,a);
